@@ -4,6 +4,10 @@
 ## Overview
 
 Welcome to the Tune Track-Music Website project! This is a beginner-friendly web development project aimed at creating a Music Website using HTML, CSS, and JavaScript. The application showcases the top 10 best songs of Arijit Singh, utilizing the audio in the JavaScript code to enable music playback.
+## Contributors
+ This project contributors are:
+- *Hemant_Raj*: https://github.com/hemant3940.
+- *Lata_Talreja*: https://github.com/Codified11.
 
 ## Project Structure
 
@@ -29,10 +33,11 @@ The project structure is organized as follows:
 - *User-Friendly Interface*: The interface is designed to be user-friendly, making it easy for beginners to navigate and enjoy the music.
 
 ## Preview
+## index.html <br>
+![Screenshot 2025-05-01 004405](https://github.com/user-attachments/assets/8cbe364e-6cc8-4325-8624-caff4a4d777f)
 
-## index.html
-<br>
-![Screenshot 2025-05-01 004405](https://github.com/user-attachments/assets/cba30706-4e5d-4887-9e72-d5e6e09d980a)
+
+
 <br/> <br/>
 
 ## main.html<br>
@@ -82,16 +87,13 @@ The project structure is organized as follows:
    
    git clone https://github.com/your-username/Tune-Track-Music-Website.git
    
-2. *Open in Browser*: Open the index.html file in your preferred web browser to launch the Spotify Clone.
+2. *Open in Browser*: Open the index.html file in your preferred web browser to launch the Tune Track-Music Website.
 
 
 
 
-## Feedback
-
-If you have any feedback, questions, or suggestions, feel free to open an issue in the repository. We welcome contributions from developers of all skill levels!
-
-Happy coding! 🎵🚀
+## Happy Coding...
+🎵🚀
 
 
 <center> <img src ="https://media.giphy.com/media/3ioNbrhoutyL6nm38j/giphy.gif" > </center>
